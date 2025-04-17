@@ -35,16 +35,16 @@ I'm a Software Engineering student at 1337 Coding School, passionate about full-
 ---
  <!--
  [![](https://visitcount.itsvg.in/api?id=mohammedelkouche&icon=0&color=0)](https://visitcount.itsvg.in) 
-
+<p align="center">
 -->
 <!-- Two cards side by side with equal height -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedelkouche&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohammedelkouche&theme=dark&hide_border=false" height="200">
 </p>
 
 <!-- Third card centered below -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedelkouche&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
 </p>
 
