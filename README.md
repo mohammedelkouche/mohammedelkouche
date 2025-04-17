@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm MOHAMMED EL KOUCHE
 
 <!--
 **mohammedelkouche/mohammedelkouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Software Engineering student at 1337 Coding School, passionate about full-stack web development. My expertise includes frontend technologies like React.js and Next.js, backend development with Node.js, Express.js, and Django, and working with databases such as MongoDB and PostgreSQL.
